@@ -2,6 +2,7 @@
 #==================================================
 setwd("~/RepData_PeerAssessment1")
 activity.data <- read.csv("activity.csv")
+library(timeDate)
 
 
 
